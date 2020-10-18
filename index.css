@@ -1,0 +1,52 @@
+#global{
+    height: 300px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#para{
+    font-size: 40px;
+    font-weight: bolder;
+    text-decoration: underline;
+}
+
+#global p{
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#global1{
+    color: rgb(73, 68, 68);
+    font-weight: bolder;
+}
+
+#global2{
+    color: red;
+}
+
+#global3{
+    color: green;
+    font-weight: bold;
+}
+
+#title{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
